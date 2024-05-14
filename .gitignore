@@ -1,0 +1,8 @@
+.env
+node_modules
+swagger.json
+chapter.json
+yarn.lock
+tests
+coverage
+.prettierignore
